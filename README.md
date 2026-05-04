@@ -21,15 +21,13 @@
 
 ## 🚀 เทคโนโลยีที่ใช้ (Tech Stack)
 
-### Frontend
+- **Node.js (Express)**: พัฒนา RESTful API
+- **MySQL (mysql2)**: ระบบฐานข้อมูล
+- **VERCLE**: ใช้สำหรับ Deploy Web
 - **Flutter**: พัฒนาส่วนติดต่อผู้ใช้ (UI) ทั้งในส่วนของ User และ Admin
 - **http**: สำหรับเชื่อมต่อกับ REST API
 - **shared_preferences**: สำหรับการเก็บข้อมูล Login เบื้องต้นในเครื่อง
-
-### Backend
-- **Node.js (Express)**: พัฒนา RESTful API
-- **MySQL (mysql2)**: ระบบฐานข้อมูล
 - **CORS**: รองรับการเชื่อมต่อจาก Frontend
-- **Dotenv**: จัดการ Environment Variables
+
 
 
